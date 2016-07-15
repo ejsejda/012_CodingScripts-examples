@@ -1,0 +1,222 @@
+# analysing RNA-seq in R:
+# http://www.bioconductor.org/help/workflows/rnaseqGene/
+# This example is for the Affymetrix microarray analysis, though after the RMA step the analysis will be the same
+
+#Install standard R packages distributed by CRAN
+install.packages("affy")
+install.packages("rgl")
+
+#Install packages distributed by Bioconductor 
+source("http://bioconductor.org/biocLite.R")
+biocLite("affy")
+biocLite("makecdfenv")
+biocLite("affyPLM")
+biocLite("affycoretools")
+biocLite("limma")
+biocLite("WGCNA")
+
+
+#Load a library (the same for both CRAN and Bioconductor packages - need to do after installing)
+library(affy)
+library(makecdfenv)
+library(affyPLM)
+library(affycoretools)
+library(rgl)
+library(limma)
+library(WGCNA)
+library(cluster)
+
+# Set the directory where the files are as a working directory
+setwd("D:/personal/array/FG12_CEL.tar/FG12_CEL")
+
+#Download and unpack the array CEL files into your working directory (here used the FG12 experiment from PlexDB)
+
+#Download the Affymetrix Fusarium Array Annotation file (CDF) from here: http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL18136
+#Put it in the working directory, read in the .CDF file using this command
+fus_cdf = make.cdf.env("Fusariuma520094.cdf")
+
+#Read in .CEL files (raw Affymetrix array format)
+arrays = ReadAffy()
+
+# inspect array images for abnormalities
+# set up the layout (number of columns and rows to display images in)
+par(mfrow=c(4,5))
+
+# inspect the raw array images 
+image(arrays)
+
+#Add the array annotation to array object
+arrays@cdfName <- "fus_cdf"
+
+#Run the Robust Multichip Average (RMA) normalisation protocol (does background correction, normalisation) and outputs logged expression values
+# After this step the analysis will be the same as for the NGS as it is for microarray. For NGS we 
+# get the FPKM values which can be dealt with in the same way (NOTE: RMA returns log normalised expressions and FPKM need to be logged)
+expr=rma(arrays)
+
+#Quantile normalisation demonstration using MA plot
+# Show slide 2 before normalisation
+MAplot(expr, which=2, plot.method="smoothScatter")
+
+# Do quantile normalisation
+x = normalize.quantiles(exprs(expr))
+# Copy over row and column names
+colnames(x) = colnames(exprs(expr))
+rownames(x) = rownames(exprs(expr))
+# Put normalised data back into expression object
+exprs(expr) = x
+
+# Show the corrected data - the line is now almost straight, indicating the distribution has now been properly corrected
+MAplot(expr, which=2, plot.method="smoothScatter")
+
+
+# Show neatly normalised data
+par(mfrow=c(1,2))
+boxplot(arrays, col="cyan",main="Before normalisation")
+boxplot(expr, col="green",main="After normalisation")
+
+# For next stage it is necessary to understand how samples relate to design e.g. what are the replicates and time points,
+# For this experiment this is shown here: http://www.plexdb.org/modules/PD_browse/experiment_browser.php
+
+# Check what the order of samples is, as some function to follow need some grouping vectors given that match this order
+colnames(exprs(expr))
+
+# build the design object - for every condition put a 0 if sample is not in group and 1 if it is in group
+# order of samples as was printed out by a previous command
+
+# Principle component plot - to check that replicate samples group together
+# Also shows which groups are similar to each other 
+#Plot 2D
+plotPCA(expr, x.coord=120, y.coord=-40, groups=c(1,1,1,2,2,2,2,3,3,3,3,4,4,4,4), groupnames=c("dpi35", "dpi2", "dpi14", "cultured"))
+
+#Plot 3D
+plotPCA(expr, x.coord=120, y.coord=-40, groups=c(1,1,1,2,2,2,2,3,3,3,3,4,4,4,4), pcs = c(1,2,3), plot3d = TRUE)
+
+#Differential expression analysis
+
+# Make the limma model
+# First group replicate samples into conditions.
+levels = c("dpi35", "dpi2", "dpi14", "cultured")
+X = c("dpi35","dpi35","dpi35","dpi2","dpi2","dpi2","dpi2","dpi14","dpi14","dpi14","dpi14","cultured","cultured","cultured","cultured")
+TS = factor(X, levels= levels)
+design = model.matrix(~0+TS)
+colnames(design) = levels(TS)
+
+# To understand what the previous lines did type this and press enter:
+design
+#It just created a table with 1s showing which replicate samples to group into what conditions)
+
+# This statement just tells which combinations of conditions we want to compare to get the differential expression
+contrast = makeContrasts('dpi2 - dpi14', 'dpi2 - dpi35','dpi14 - dpi35', levels = design)
+
+#The following fits the models and then does the Bayesian differential expression analysis
+# Refer to: http://www.bioconductor.org/help/course-materials/2010/BioC2010/limma2.pdf
+fit = lmFit(expr, design)
+fit = contrasts.fit(fit, contrast)
+eb = eBayes(fit)
+
+#Get the results number here is the total number of probe sets on the array
+result = topTable(eb, number =18069)
+
+#to get a subset of differentially expressed genes
+#Save the results (...and open in Excel)
+write.table(result, file="fus_diff_genes.tab", sep="\t", quote=FALSE, row.names=TRUE)
+# Get the names of differentially expressed genes (p-value adjusted for multiple testing is less than 0.05)
+diff_genes = rownames(result[result$adj.P.Val<0.05,])
+
+# Choose genes that have relatively high average expression - will be used for WGCNA analysis (selection method recommended by WGCNA developers)
+means = apply(exprs(expr), 1, mean)
+var_mat=exprs(expr)[means>6, ]
+
+#####################################################################################
+# Weighted Gene Coexpression Network Analysis (WGCNA)
+# Basically follows the tutorial here, adapted slightly for this Fusarium dataset:
+# http://labs.genetics.ucla.edu/horvath/CoexpressionNetwork/Rpackages/WGCNA/Tutorials/
+#####################################################################################
+
+# Enable multithreading to speed things up
+allowWGCNAThreads()
+
+#Need to set this option for things to work properly
+options(stringsAsFactors = FALSE);
+
+# Grab the expression data matrix WGCNA uses, transpose it 
+datExpr = t(var_mat)
+
+# Run the clustering of the data
+sampleTree = hclust(dist(datExpr), method = "average");
+
+# Plot - everything is fine...
+plot(sampleTree, main = "Sample clustering to detect outliers", sub="", xlab="", cex.lab = 1.5,cex.axis = 1.5, cex.main = 2)
+
+# Determine the optimal threshold to construct the sparse network from distance matrix 
+powers = c(c(1:10), seq(from = 12, to=20, by=2))
+sft = pickSoftThreshold(datExpr, powerVector = powers, verbose = 5)
+
+# Plot the results 
+#Configure the plotting area
+sizeGrWindow(9, 5)
+par(mfrow = c(1,2));
+cex1 = 0.9;
+
+#Generate the two plots - does not fit that great in this case, but make the best of it - pick power 17 as this is the lowest level with 0.9 fit to scale free model
+plot(sft$fitIndices[,1], -sign(sft$fitIndices[,3])*sft$fitIndices[,2],xlab="Soft Threshold (power)",ylab="Scale Free Topology Model Fit,signed R^2",type="n",main = paste("Scale independence"));
+text(sft$fitIndices[,1], -sign(sft$fitIndices[,3])*sft$fitIndices[,2],labels=powers,cex=cex1,col="red");
+abline(h=0.90,col="red")
+
+plot(sft$fitIndices[,1], sft$fitIndices[,5],xlab="Soft Threshold (power)",ylab="Mean Connectivity", type="n",main = paste("Mean connectivity"))
+text(sft$fitIndices[,1], sft$fitIndices[,5], labels=powers, cex=cex1,col="red")
+
+# Network construction - note that the power option came from the previous step, the rest are default recommended settings
+net = blockwiseModules(datExpr, power = 17,
+TOMType = "unsigned", minModuleSize = 30,
+reassignThreshold = 0, mergeCutHeight = 0.25,
+numericLabels = TRUE, pamRespectsDendro = FALSE,
+saveTOMs = TRUE,
+saveTOMFileBase = "fusariumTOM",
+verbose = 3)
+
+# Check how many modules where identified and how many genes there are in them
+table(net$colors)
+
+#Plot the results - in this case the result is dominated by just two clusters
+sizeGrWindow(12, 9)
+mergedColors = labels2colors(net$colors)
+# i does not  work very well as the data is very small and WGCNA needs much larger ones (though there is not anything for pathogenic fungi atm)
+plotDendroAndColors(net$dendrograms[[1]], mergedColors[net$blockGenes[[1]]],"Module colors",dendroLabels = FALSE, hang = 0.03,addGuide = TRUE, guideHang = 0.1) 
+
+# Calculate dissimilarity between genes based on Topological Overlap Measure (TOM)
+dissTOM = 1-TOMsimilarityFromExpr(datExpr, power = 12, nThreads = 7);
+
+nGenes = ncol(datExpr)
+
+#Random seed - change to draw a different random subset
+set.seed(10);
+#Select a random subset of 500 genes from the matrix. Selecting the random subset is necessary because the heatmap function in WGCNA is quite slow 
+#and visualising the whole thing will take a very long time
+select = sample(nGenes, size = 500);
+selectTOM = dissTOM[select, select];
+selectTree = hclust(as.dist(selectTOM), method = "average")
+#Select the corresponding subset of colors/modules membership values
+selectColors = moduleColors[select];
+moduleColors = net$colors;
+
+#This just makes the values a bit bigger so the colour range of the plot is a bit more diverse
+selectTOM = selectTOM ^2
+
+#Do not draw diagonal on plot...
+diag(selectTOM) = NA;
+
+#Plot the heatmap - in this case it is dominated by one big module (black) but there is some structure on the periphery (e.g. small green and blue modules)
+sizeGrWindow(9,9)
+TOMplot(selectTOM, selectTree, selectColors, main = "Network heatmap plot, random subset of 500 genes")
+
+
+#Next: Gene ontology enrichment analysis to find important functional categories for those sets of genes
+
+#Visualising eigengenes - eigengene is the most representative artificially-derived "metagene" for each module
+MEs = moduleEigengenes(datExpr, moduleColors)$eigengenes
+plotEigengeneNetworks(MEs, "", marDendro = c(0,4,1,12), marHeatmap = c(0,4,1,2), cex.lab = 0.8, xLabelsAngle= 90)
+
+#Get a list of genes for specific module e.g. module 1
+inModule = (moduleColors==1);
+genes = colnames(datExpr)[inModule]
