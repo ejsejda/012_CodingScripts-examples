@@ -1,0 +1,942 @@
+PHI:1002	FGSG_05955	GCS1	mixed outcome
+PHI:1004	FGSG_09903	STE7	Loss of pathogenicity 
+PHI:1005	FGSG_09612	FgHOG1	mixed outcome
+PHI:1006	FGSG_09197	HMR1	Reduced virulence
+PHI:1007	FGSG_03747	NPS6	Reduced virulence
+PHI:1010	FGSG_05371	SID1	Reduced virulence
+PHI:1011	FGSG_05159	FET3	Unaffected pathogenicity 
+PHI:1012	FGSG_05535	GzGPA1	Unaffected pathogenicity 
+PHI:1013	FGSG_09614	GzGPA2	Reduced virulence
+PHI:1014	FGSG_09988	GzGPA3	Unaffected pathogenicity 
+PHI:1015	FGSG_04104	GzGPB1	Reduced virulence
+PHI:1016	FGSG_05484	STE11	Loss of pathogenicity 
+PHI:1078	FGSG_06680	Mes1	Reduced virulence
+PHI:1079	FGSG_08695	Pls1	Unaffected pathogenicity
+PHI:1080	FGSG_01364	Cch1	Unaffected pathogenicity
+PHI:1086	FGSG_00416	FGSG_00416	Reduced virulence
+PHI:1087	FGSG_04510	FGSG_04510	Unaffected pathogenicity
+PHI:1088	FGSG_09759	FGSG_09759	Unaffected pathogenicity
+PHI:1089	FGSG_02549	FGSG_02549	Reduced virulence
+PHI:1090	FGSG_10057	FGSG_10057	Reduced virulence
+PHI:1091	FGSG_08737	FGSG_08737	Unaffected pathogenicity
+PHI:1092	FGSG_12753	FGSG_12753	Reduced virulence
+PHI:1093	FGSG_02077	FGSG_02077	Reduced virulence
+PHI:1094	FGSG_04610	FGSG_04610	Unaffected pathogenicity
+PHI:1095	FGSG_09905	FGSG_09905	Unaffected pathogenicity
+PHI:1096	FGSG_07062	FGSG_07062	Unaffected pathogenicity
+PHI:1097	FGSG_01974	FGSG_01974	Reduced virulence
+PHI:1098	FGSG_12019	FGSG_12019	Reduced virulence
+PHI:1162	FGSG_04105	BDM1	mixed outcome
+PHI:1163	FGSG_10057	ERB1 (enhanced branching 1)	Reduced virulence
+PHI:1164	FGSG_08948.3	RRG1	Reduced virulence
+PHI:1164	FGSG_08948.3	SSK1	Reduced virulence
+PHI:1165	FGSG_06359.3	RRG2	Unaffected pathogenicity
+PHI:1166	FGSG_02519	ATG15	Reduced virulence
+PHI:1167	FGSG_09254	NPC1	Reduced virulence
+PHI:1168	FGSG_01353	HDF1	Reduced virulence
+PHI:1169	FGSG_04324	HDF2	Reduced virulence
+PHI:1170	FGSG_05636	HDF3	Unaffected virulence
+PHI:1171	FGSG_01353	HDF1	Reduced virulence
+PHI:1172	FGSG_04324	HDF2	Reduced virulence
+PHI:1173	FGSG_01353	HDF1	Reduced virulence
+PHI:1174	FGSG_05636	HDF3	Reduced virulence
+PHI:1175	FGSG_04484	(Sc Srb10)	Reduced virulence
+PHI:1176	FGSG_05547	(Sc Atg1)	Reduced virulence
+PHI:1177	FGSG_04382	(Sc Fpk1)	Reduced virulence
+PHI:1178	FGSG_08468	(Sc Cdc28)	Reduced virulence
+PHI:1179	FGSG_09903	(Sc Ste7)	Reduced virulence
+PHI:1180	FGSG_06939	(Sc Sat4)	Reduced virulence
+PHI:1181	FGSG_05734	(Sc Kic1)	Reduced virulence
+PHI:1182	FGSG_13318	(Sc Mec1)	Reduced virulence
+PHI:1183	FGSG_06878	(Sc Cmk1/Cmk2)	Reduced virulence
+PHI:1184	FGSG_08701	(Sc Gin4-like)	Reduced virulence
+PHI:1185	FGSG_10228	(Sc Swe1)	Reduced virulence
+PHI:1186	FGSG_10381	(Sc Cdc15)	Reduced virulence
+PHI:1187	FGSG_08635	(Sc Dbf2/Dbf20)	Reduced virulence
+PHI:1188	FGSG_01641	(Sc Sak1)	Reduced virulence
+PHI:1189	FGSG_06385	(Gpmk1)	Reduced virulence
+PHI:1190	FGSG_08691	(Sc Pbs2)	Reduced virulence
+PHI:1191	FGSG_05484	(Sc Ste11)	Reduced virulence
+PHI:1192	FGSG_04947	(Sc  Cak1)	Reduced virulence
+PHI:1193	FGSG_02795	(Sc Sky1)	Reduced virulence
+PHI:1194	FGSG_07295	(Sc Mkk1/Mkk2)	Reduced virulence
+PHI:1195	FGSG_06326	(Sc Bck1)	Reduced virulence
+PHI:1196	FGSG_10313	(Mgv1)	Reduced virulence
+PHI:1197	FGSG_09897	(Snf1)	Reduced virulence
+PHI:1198	FGSG_00408	(Sc Ssk2/Ssk22)	Reduced virulence
+PHI:1199	FGSG_07251	(Sc Tpk2)	Reduced virulence
+PHI:1200	FGSG_07329	(Gsk3)	Reduced virulence
+PHI:1201	FGSG_10037	(Bud32)	Reduced virulence
+PHI:1202	FGSG_06957	(Sc Cla4)	Reduced virulence
+PHI:1203	FGSG_10066	(Sc Yck1/2/3)	Reduced virulence
+PHI:1204	FGSG_01188	(Sc Cbk1)	Reduced virulence
+PHI:1205	FGSG_00362	(Sc CDC15)	Reduced virulence
+PHI:1206	FGSG_04053	(Sp Prp4)	Reduced virulence
+PHI:1207	FGSG_09274	(Sc Kin1/Kin2)	Reduced virulence
+PHI:1208	FGSG_00472	(Sc Sch9)	Reduced virulence
+PHI:1209	FGSG_04770		Reduced virulence
+PHI:1210	FGSG_10095	(Sc pom1)	Reduced virulence
+PHI:1211	FGSG_06793	(Sc Ctk1)	Reduced virulence
+PHI:1212	FGSG_01312	(Sc Rim15)	Reduced virulence
+PHI:1213	FGSG_03284	(Sc Cka1/Cka2)	Reduced virulence
+PHI:1214	FGSG_05418	(Sc Yak1)	Reduced virulence
+PHI:1215	FGSG_08906	(Sc Prr2)	Reduced virulence
+PHI:1216	FGSG_07344	(Sp SID1)	Reduced virulence
+PHI:1217	FGSG_11812	(Sc Kin4)	Reduced virulence
+PHI:1218	FGSG_00677	"(ScYPK1, YPK2)"	Lethal
+PHI:1219	FGSG_01137	(Sc IPL1)	Lethal
+PHI:1220	FGSG_01271	"(Sc PKH1, PKH2)"	Lethal
+PHI:1221	FGSG_04054	(Sc PKC1)	Lethal
+PHI:1222	FGSG_05306	(Sc CDC5)	Lethal
+PHI:1223	FGSG_05393	(Sc IRE1)	Lethal
+PHI:1224	FGSG_05519	(Sc VHS1/SKS1)	Lethal
+PHI:1225	FGSG_05775	(Sc HRR25)	Lethal
+PHI:1226	FGSG_05845	(Sc KIN28)	Lethal
+PHI:1227	FGSG_06089	FgTRA1	Lethal
+PHI:1228	FGSG_06502	(Sc SGV1)	Lethal
+PHI:1229	FGSG_06637	(Sc PHO85)	Lethal
+PHI:1230	FGSG_06959	(Sc CKA1)	Lethal
+PHI:1231	FGSG_07409	(Sc KNS1)	Lethal
+PHI:1232	FGSG_07423	(FgKIN28)	Lethal
+PHI:1233	FGSG_07855	(Sc CDC7)	Lethal
+PHI:1234	FGSG_08133	(Sc MPS1)	Lethal
+PHI:1235	FGSG_08731	FgHRRR25 (Sc TEL1)	Lethal
+PHI:1236	FGSG_09408	(Sc TOR1/TOR2)	Lethal
+PHI:1237	FGSG_09660	FgPKC1	Lethal
+PHI:1238	FGSG_10725	(Sc RIO1/RIO2)	Lethal
+PHI:1239	FGSG_02399	(Sc IPL1)	Unaffected pathogenicity
+PHI:1240	FGSG_08729	(Sc TPK1)	Unaffected pathogenicity
+PHI:1241	FGSG_00469	(Sc YPK3)	Unaffected pathogenicity
+PHI:1242	FGSG_08631	(Sc YPK2-like)	Unaffected pathogenicity
+PHI:1243	FGSG_01058		Unaffected pathogenicity
+PHI:1244	FGSG_00337	(Sc CMK2)	Unaffected pathogenicity
+PHI:1245	FGSG_07520	(Sc IKS1)	Unaffected pathogenicity
+PHI:1246	FGSG_09513	(Sc SCY1)	Unaffected pathogenicity
+PHI:1247	FGSG_10196	(Sc SCY1-like)	Unaffected pathogenicity
+PHI:1248	FGSG_06832	(Sc ENV7)	Unaffected pathogenicity
+PHI:1249	FGSG_00786	(Sc RCK1/RCK2)	Unaffected pathogenicity
+PHI:1250	FGSG_06940	(Sc TOS3)	Unaffected pathogenicity
+PHI:1251	FGSG_01506	(Sc CHK1)	Unaffected pathogenicity
+PHI:1252	FGSG_05764	(Sc YPL150W)	Unaffected pathogenicity
+PHI:1253	FGSG_06970		Unaffected pathogenicity
+PHI:1254	FGSG_01842	(Sc PRR1)	Unaffected pathogenicity
+PHI:1255	FGSG_06206	(Sc HRK1/RTK1)	Unaffected pathogenicity
+PHI:1256	FGSG_00433	(Sc RAD53)	Unaffected pathogenicity
+PHI:1257	FGSG_07121	(Sc DUN1)	Unaffected pathogenicity
+PHI:1258	FGSG_12149		Unaffected pathogenicity
+PHI:1259	FGSG_05586		Unaffected pathogenicity
+PHI:1260	FGSG_07816		Unaffected pathogenicity
+PHI:1261	FGSG_02838		Unaffected pathogenicity
+PHI:1262	FGSG_06420		Unaffected pathogenicity
+PHI:1263	FGSG_00792		Unaffected pathogenicity
+PHI:1264	FGSG_01559		Unaffected pathogenicity
+PHI:1265	FGSG_05549		Unaffected pathogenicity
+PHI:1266	FGSG_03132	(Sc CDC28/CDC2))	Unaffected pathogenicity
+PHI:1267	FGSG_04418	(Sc IME2)	Unaffected pathogenicity
+PHI:1268	FGSG_05406	(Sp PPK23)	Unaffected pathogenicity
+PHI:1269	FGSG_02488		Unaffected pathogenicity
+PHI:1270	FGSG_03146		Unaffected pathogenicity
+PHI:1271	FGSG_00132		Unaffected pathogenicity
+PHI:1272	FGSG_09492	(Sc STE20)	Unaffected pathogenicity
+PHI:1273	FGSG_01347	(Sc BUB1)	Unaffected pathogenicity
+PHI:1274	FGSG_05135	(Sc GCN2)	Unaffected pathogenicity
+PHI:1275	FGSG_12887		Unaffected pathogenicity
+PHI:1276	FGSG_09150		Unaffected pathogenicity
+PHI:1277	FGSG_12132		Unaffected pathogenicity
+PHI:1278	FGSG_11614		Unaffected pathogenicity
+PHI:1279	FGSG_07742		Unaffected pathogenicity
+PHI:1280	FGSG_07745		Unaffected pathogenicity
+PHI:1281	FGSG_02153		Unaffected pathogenicity
+PHI:1282	FGSG_13509		Unaffected pathogenicity
+PHI:1283	FGSG_10591		Unaffected pathogenicity
+PHI:1284	FGSG_03499		Unaffected pathogenicity
+PHI:1285	FGSG_13944		Unaffected pathogenicity
+PHI:1286	FGSG_07812		Unaffected pathogenicity
+PHI:1287	FGSG_07381	(Sc PKP2)	Unaffected pathogenicity
+PHI:1288	FGSG_01963	(Sc PKP1)	Unaffected pathogenicity
+PHI:1289	FGSG_04416		Unaffected pathogenicity
+PHI:1290	FGSG_10129	STUA	Reduced virulence
+PHI:1291	FGSG_06874 	TOP1	Reduced virulence
+PHI:1292	FGSG_01555	ZIF1	Reduced virulence
+PHI:1293	FGSG_04220	GzAPSES001	Reduced virulence
+PHI:1294	FGSG_05283	GzAPSES002	Unaffected pathogenicity
+PHI:1295	FGSG_10129	FgStuA	Reduced virulence
+PHI:1296	FGSG_10384	GzAPSES004	Reduced virulence
+PHI:1297	FGSG_06071	GzAT001	Reduced virulence
+PHI:1298	FGSG_09407	GzAT002	Unaffected pathogenicity
+PHI:1299	FGSG_09495	GzAT003	Unaffected pathogenicity
+PHI:1300	FGSG_00545	GzbHLH001	Unaffected pathogenicity
+PHI:1301	FGSG_00750	GzbHLH002	Unaffected pathogenicity
+PHI:1302	FGSG_01139	GzbHLH003	Unaffected pathogenicity
+PHI:1303	FGSG_01173	GzbHLH004	Unaffected pathogenicity
+PHI:1304	FGSG_01307	GzbHLH005	Reduced virulence
+PHI:1305	FGSG_02516	GzbHLH006	Unaffected pathogenicity
+PHI:1306	FGSG_02814	GzbHLH007	Unaffected pathogenicity
+PHI:1307	FGSG_03313	GzbHLH008	Unaffected pathogenicity
+PHI:1308	FGSG_04035	GzbHLH009	Unaffected pathogenicity
+PHI:1309	FGSG_05567	GzbHLH010	Lethal
+PHI:1310	FGSG_06262	GzbHLH011	Unaffected pathogenicity
+PHI:1311	FGSG_07790	GzbHLH012	Unaffected pathogenicity
+PHI:1312	FGSG_08403	GzbHLH013	Unaffected pathogenicity
+PHI:1313	FGSG_09308	GzbHLH014	Unaffected pathogenicity
+PHI:1314	FGSG_10440	GzbHLH015	Unaffected pathogenicity
+PHI:1315	FGSG_11658	GzbHLH016	Unaffected pathogenicity
+PHI:1316	FGSG_01096	GzBrom001	Unaffected pathogenicity
+PHI:1317	FGSG_06291	GzBrom002	Reduced virulence
+PHI:1318	FGSG_09871	GzBrom003	Unaffected pathogenicity
+PHI:1319	FGSG_00515	GzbZIP001	Reduced virulence
+PHI:1320	FGSG_01555	ZIF1	Reduced virulence
+PHI:1321	FGSG_02398	ZEB2	Unaffected pathogenicity
+PHI:1322	FGSG_02750	GzbZIP004	Unaffected pathogenicity
+PHI:1323	FGSG_02939	GzbZIP005	Unaffected pathogenicity
+PHI:1324	FGSG_03040	GzbZIP006	Unaffected pathogenicity
+PHI:1325	FGSG_05171	GzbZIP007	Reduced virulence
+PHI:1326	FGSG_05930	GzbZIP008	Unaffected pathogenicity
+PHI:1327	FGSG_06421	GzbZIP009	Unaffected pathogenicity
+PHI:1328	FGSG_06651	GzbZIP010	Reduced virulence
+PHI:1329	FGSG_07789	GzbZIP011	Unaffected pathogenicity
+PHI:1330	FGSG_07863	GzbZIP012	Unaffected pathogenicity
+PHI:1331	FGSG_08800	GzbZIP013	Unaffected pathogenicity
+PHI:1332	FGSG_09001	GzbZIP014	Unaffected pathogenicity
+PHI:1333	FGSG_09286	GzbZIP015	Unaffected pathogenicity
+PHI:1334	FGSG_09832	GzbZIP016	Reduced virulence
+PHI:1335	FGSG_10142	GzbZIP017	Reduced virulence
+PHI:1336	FGSG_11623	GzbZIP018	Unaffected pathogenicity
+PHI:1337	FGSG_12345	GzbZIP019	Unaffected pathogenicity
+PHI:1338	FGSG_13313	GzbZIP020	Unaffected pathogenicity
+PHI:1339	FGSG_13759	GzbZIP021	Unaffected pathogenicity
+PHI:1340	FGSG_10546	GzbZIP022	Unaffected pathogenicity
+PHI:1341	FGSG_00240	GzC2H001	Unaffected pathogenicity
+PHI:1342	FGSG_00342	GzC2H002	Unaffected pathogenicity
+PHI:1343	FGSG_00477	GzC2H003	Reduced virulence
+PHI:1344	FGSG_00584	GzC2H004	Unaffected pathogenicity
+PHI:1345	FGSG_00653	GzC2H005	Unaffected pathogenicity
+PHI:1346	FGSG_00764	GzC2H006	Unaffected pathogenicity
+PHI:1347	FGSG_01022	GzC2H007	Reduced virulence
+PHI:1348	FGSG_01106	GzC2H008	Reduced virulence
+PHI:1349	FGSG_01214	GzC2H009	Unaffected pathogenicity
+PHI:1350	FGSG_01298	GzC2H010	Unaffected pathogenicity
+PHI:1351	FGSG_01310	GzC2H011	Unaffected pathogenicity
+PHI:1352	FGSG_01319	GzC2H012	Unaffected pathogenicity
+PHI:1353	FGSG_01341	GzC2H013	Reduced virulence
+PHI:1354	FGSG_01350	GzC2H014	Reduced virulence
+PHI:1355	FGSG_01576	GzC2H015	Unaffected pathogenicity
+PHI:1356	FGSG_01877	GzC2H016	Unaffected pathogenicity
+PHI:1357	FGSG_02635	GzC2H017	Unaffected pathogenicity
+PHI:1358	FGSG_02743	GzC2H018	Unaffected pathogenicity
+PHI:1359	FGSG_02788	GzC2H019	Unaffected pathogenicity
+PHI:1360	FGSG_02803	GzC2H020	Unaffected pathogenicity
+PHI:1361	FGSG_03234	GzC2H021	Unaffected pathogenicity
+PHI:1362	FGSG_03536	TRI6	Unaffected pathogenicity
+PHI:1363	FGSG_03881	TRI15	Unaffected pathogenicity
+PHI:1364	FGSG_04083	GzC2H024	Reduced virulence
+PHI:1365	FGSG_04084	GzC2H025	Unaffected pathogenicity
+PHI:1366	FGSG_04134	GzCON7	Reduced virulence
+PHI:1367	FGSG_04288	GzC2H028	Unaffected pathogenicity
+PHI:1368	FGSG_04293	GzC2H029	Unaffected pathogenicity
+PHI:1369	FGSG_04889	GzC2H031	Unaffected pathogenicity
+PHI:1370	FGSG_04932	GzC2H032	Unaffected pathogenicity
+PHI:1371	FGSG_05041	GzC2H034	Unaffected pathogenicity
+PHI:1372	FGSG_05359	GzC2H035	Unaffected pathogenicity
+PHI:1373	FGSG_05381	GzC2H036	Unaffected pathogenicity
+PHI:1374	FGSG_05399	GzC2H037	Unaffected pathogenicity
+PHI:1375	FGSG_05857	GzC2H038	Unaffected pathogenicity
+PHI:1376	FGSG_06002	GzC2H039	Unaffected pathogenicity
+PHI:1377	FGSG_06168	GzC2H040	Unaffected pathogenicity
+PHI:1378	FGSG_06311	GzC2H041	Unaffected pathogenicity
+PHI:1379	FGSG_06427	GzC2H042	Reduced virulence
+PHI:1380	FGSG_06684	GzC2H043	Unaffected pathogenicity
+PHI:1381	FGSG_06701	GzC2H044	Unaffected pathogenicity
+PHI:1382	FGSG_06871	GzC2H045	Reduced virulence
+PHI:1383	FGSG_06934	GzC2H046	Unaffected pathogenicity
+PHI:1384	FGSG_07052	GzC2H047	Reduced virulence
+PHI:1385	FGSG_07075	GzC2H048	Unaffected pathogenicity
+PHI:1386	FGSG_07187	GzC2H049	Unaffected pathogenicity
+PHI:1387	FGSG_07310	GzBrlA	Unaffected pathogenicity
+PHI:1388	FGSG_07392	GzC2H051	Unaffected pathogenicity
+PHI:1389	FGSG_07504	GzC2H052	Lethal
+PHI:1390	FGSG_07735	GzC2H053	Unaffected pathogenicity
+PHI:1391	FGSG_07737	GzC2H054	Unaffected pathogenicity
+PHI:1392	FGSG_07751	GzC2H055	Unaffected pathogenicity
+PHI:1393	FGSG_07753	GzC2H056	Unaffected pathogenicity
+PHI:1394	FGSG_07909	GzC2H057	Lethal
+PHI:1395	FGSG_07914	GzC2H058	Unaffected pathogenicity
+PHI:1396	FGSG_07928	GzC2H059	Reduced virulence
+PHI:1397	FGSG_07952	GzC2H060	Unaffected pathogenicity
+PHI:1398	FGSG_08128	GzC2H061	Unaffected pathogenicity
+PHI:1399	FGSG_08138	GzC2H062	Unaffected pathogenicity
+PHI:1400	FGSG_08246	GzC2H063	Unaffected pathogenicity
+PHI:1401	FGSG_08434	GzC2H064	Unaffected pathogenicity
+PHI:1402	FGSG_08582	GzC2H065	Unaffected pathogenicity
+PHI:1403	FGSG_08617	GzC2H066	Reduced virulence
+PHI:1404	FGSG_08646	GzC2H067	Unaffected pathogenicity
+PHI:1405	FGSG_08798	GzC2H069	Unaffected pathogenicity
+PHI:1406	FGSG_08845	GzC2H070	Lethal
+PHI:1407	FGSG_08914	GzC2H071	Lethal
+PHI:1408	FGSG_09015	GzC2H072	Unaffected pathogenicity
+PHI:1409	FGSG_09368	GzC2H075	Unaffected pathogenicity
+PHI:1410	FGSG_09410	GzC2H076	Unaffected pathogenicity
+PHI:1411	FGSG_09629	GzC2H078	Lethal
+PHI:1412	FGSG_09715	GzC2H079	Unaffected pathogenicity
+PHI:1413	FGSG_09770	GzC2H080	Unaffected pathogenicity
+PHI:1414	FGSG_09857	GzC2H081	Unaffected pathogenicity
+PHI:1415	FGSG_10006	GzC2H082	Unaffected pathogenicity
+PHI:1416	FGSG_10162	GzC2H083	Unaffected pathogenicity
+PHI:1417	FGSG_10350	GzC2H084	Unaffected pathogenicity
+PHI:1418	FGSG_10360	GzC2H085	Lethal
+PHI:1419	FGSG_10369	GzC2H086	Unaffected pathogenicity
+PHI:1420	FGSG_10470	GzC2H088	Unaffected pathogenicity
+PHI:1421	FGSG_10508	GzC2H089	Lethal
+PHI:1422	FGSG_10517	GzC2H090	Reduced virulence
+PHI:1423	FGSG_11061	GzC2H091	Unaffected pathogenicity
+PHI:1424	FGSG_11383	GzC2H092	Unaffected pathogenicity
+PHI:1425	FGSG_11416	GzC2H093	Reduced virulence
+PHI:1426	FGSG_11792	GzC2H094	Unaffected pathogenicity
+PHI:1427	FGSG_11799	GzC2H095	Unaffected pathogenicity
+PHI:1428	FGSG_12057	GzC2H096	Unaffected pathogenicity
+PHI:1429	FGSG_12809	GzC2H097	Unaffected pathogenicity
+PHI:1430	FGSG_12837	GzC2H098	Unaffected pathogenicity
+PHI:1431	FGSG_12970	PAC1	Unaffected pathogenicity
+PHI:1431	FGSG_12970	Pac1	Unaffected pathogenicity
+PHI:1432	FGSG_12973	GzC2H100	Unaffected pathogenicity
+PHI:1433	FGSG_13123	GzC2H102	Unaffected pathogenicity
+PHI:1434	FGSG_13314	GzC2H103	Unaffected pathogenicity
+PHI:1435	FGSG_13492	GzC2H104	Unaffected pathogenicity
+PHI:1436	FGSG_13711	GzC2H105	Reduced virulence
+PHI:1437	FGSG_13896	GzC2H106	Unaffected pathogenicity
+PHI:1438	FGSG_13964	GzC2H107	Unaffected pathogenicity
+PHI:1439	FGSG_08474	GzNot001	Lethal
+PHI:1440	FGSG_13746	GzNot002	Reduced virulence
+PHI:1441	FGSG_02527	GzDDT	Reduced virulence
+PHI:1442	FGSG_02676	GzDNL	Unaffected pathogenicity
+PHI:1443	FGSG_00710	GzGATA001	Unaffected pathogenicity
+PHI:1444	FGSG_03281	GzGATA002	Unaffected pathogenicity
+PHI:1445	FGSG_04626	GzGATA003	Unaffected pathogenicity
+PHI:1446	FGSG_07830	GzGATA004	Unaffected pathogenicity
+PHI:1447	FGSG_07941	GzGATA005	Unaffected pathogenicity
+PHI:1448	FGSG_08634	GzGATA006	Unaffected pathogenicity
+PHI:1449	FGSG_09565	GzGATA007	Unaffected pathogenicity
+PHI:1450	FGSG_05073	GzGATA008	Lethal
+PHI:1451	FGSG_06356	GzGH	Unaffected pathogenicity
+PHI:1452	FGSG_10868	GzHSF003	Unaffected pathogenicity
+PHI:1453	FGSG_00374	GzAra001	Lethal
+PHI:1454	FGSG_01295	GzAra002	Unaffected pathogenicity
+PHI:1455	FGSG_04516	GzAra003	Unaffected pathogenicity
+PHI:1456	FGSG_05373	GzAra004	Unaffected pathogenicity
+PHI:1457	FGSG_06805	GzAra005	Unaffected pathogenicity
+PHI:1458	FGSG_06849	GzAra006	Unaffected pathogenicity
+PHI:1459	FGSG_09389	GzAra007	Unaffected pathogenicity
+PHI:1460	FGSG_10948	GzAra008	Unaffected pathogenicity
+PHI:1461	FGSG_00352	GzCCAAT001	Unaffected pathogenicity
+PHI:1462	FGSG_01182	GzCCAAT002	Reduced virulence
+PHI:1463	FGSG_02608	GzCCAAT003	Unaffected pathogenicity
+PHI:1464	FGSG_05304	GzCCAAT004	Reduced virulence
+PHI:1465	FGSG_05498	GzCCAAT005	Unaffected pathogenicity
+PHI:1466	FGSG_07087	GzCCAAT006	Unaffected pathogenicity
+PHI:1467	FGSG_09217	GzCCAAT007	Unaffected pathogenicity
+PHI:1468	FGSG_11627	GzCCAAT008	Unaffected pathogenicity
+PHI:1469	FGSG_00307	GzHMG001	Unaffected pathogenicity
+PHI:1470	FGSG_00385	GzHMG002	Reduced virulence
+PHI:1471	FGSG_00678	GzHMG003	Unaffected pathogenicity
+PHI:1472	FGSG_00696	GzHMG004	Unaffected pathogenicity
+PHI:1473	FGSG_00729	GzHMG005	Reduced virulence
+PHI:1474	FGSG_00799	GzHMG006	Unaffected pathogenicity
+PHI:1475	FGSG_00829	GzHMG007	Unaffected pathogenicity
+PHI:1476	FGSG_01201	GzHMG008	Unaffected pathogenicity
+PHI:1477	FGSG_01327	GzHMG009	Unaffected pathogenicity
+PHI:1478	FGSG_01366	GzHMG010	Unaffected pathogenicity
+PHI:1479	FGSG_01488	GzHMG011	Unaffected pathogenicity
+PHI:1480	FGSG_01512	GzHMG012	Unaffected pathogenicity
+PHI:1481	FGSG_01934	GzHMG013	Unaffected pathogenicity
+PHI:1482	FGSG_04379	GzHMG014	Unaffected pathogenicity
+PHI:1483	FGSG_04557	GzHMG015	Unaffected pathogenicity
+PHI:1484	FGSG_05151	GzHMG016	Unaffected pathogenicity
+PHI:1485	FGSG_05233	GzHMG017	Unaffected pathogenicity
+PHI:1486	FGSG_05604	GzHMG018	Unaffected pathogenicity
+PHI:1487	FGSG_06231	GzHMG019	Unaffected pathogenicity
+PHI:1488	FGSG_07020	GzHMG020	Unaffected pathogenicity
+PHI:1489	FGSG_07116	GzHMG021	Unaffected pathogenicity
+PHI:1490	FGSG_07144	GzHMG022	Unaffected pathogenicity
+PHI:1491	FGSG_07214	GzHMG023	Lethal
+PHI:1492	FGSG_07409	GzHMG024	Unaffected pathogenicity
+PHI:1493	FGSG_07947	GzHMG025	Unaffected pathogenicity
+PHI:1494	FGSG_08890	MAT1-1-3	Unaffected pathogenicity
+PHI:1495	FGSG_08892	MAT1-1-1	Unaffected pathogenicity
+PHI:1496	FGSG_08893	MAT1-2-1	Unaffected pathogenicity
+PHI:1497	FGSG_09868	GzHMG029	Reduced virulence
+PHI:1498	FGSG_10762	GzHMG030	Lethal
+PHI:1499	FGSG_10826	GzHMG031	Unaffected pathogenicity
+PHI:1500	FGSG_10944	GzHMG032	Unaffected pathogenicity
+PHI:1501	FGSG_11834	GzHMG033	Unaffected pathogenicity
+PHI:1502	FGSG_12323	GzHMG034	Unaffected pathogenicity
+PHI:1503	FGSG_13004	GzHMG035	Unaffected pathogenicity
+PHI:1504	FGSG_13150	GzHMG036	Lethal
+PHI:1505	FGSG_13929	GzHMG037	Unaffected pathogenicity
+PHI:1506	FGSG_01100	GzHOME001	Unaffected pathogenicity
+PHI:1507	FGSG_05475	GzHOME002	Unaffected pathogenicity
+PHI:1508	FGSG_05477	GzHOME003	Unaffected pathogenicity
+PHI:1509	FGSG_06812	GzHOME004	Unaffected pathogenicity
+PHI:1510	FGSG_07097	GzHOME005	Unaffected pathogenicity
+PHI:1511	FGSG_09019	GzHOME009	Reduced virulence
+PHI:1512	FGSG_09043	GzHOME010	Unaffected pathogenicity
+PHI:1513	FGSG_09047	GzHOME011	Unaffected pathogenicity
+PHI:1514	FGSG_09566	GzHOME012	Unaffected pathogenicity
+PHI:1515	FGSG_02718	GzHOMEL009	Unaffected pathogenicity
+PHI:1516	FGSG_05264	GzHOMEL012	Lethal
+PHI:1517	FGSG_06123	GzHOMEL013	Lethal
+PHI:1518	FGSG_06966	GzHOMEL016	Unaffected pathogenicity
+PHI:1519	FGSG_07243	GzHOMEL018	Unaffected pathogenicity
+PHI:1520	FGSG_08753	GzHOMEL024	Unaffected pathogenicity
+PHI:1521	FGSG_08954	GzHOMEL025	Lethal
+PHI:1522	FGSG_08962	GzHOMEL026	Lethal
+PHI:1523	FGSG_09228	GzHOMEL030	Unaffected pathogenicity
+PHI:1524	FGSG_09791	GzHOMEL033	Unaffected pathogenicity
+PHI:1525	FGSG_10068	GzHOMEL035	Unaffected pathogenicity
+PHI:1526	FGSG_10221	GzHOMEL036	Unaffected pathogenicity
+PHI:1527	FGSG_13431	GzHOMEL040	Lethal
+PHI:1528	FGSG_13911	GzHOMEL041	Unaffected pathogenicity
+PHI:1529	FGSG_06948	Gzscp	Reduced virulence
+PHI:1530	FGSG_08722	Gzsnd	Unaffected pathogenicity
+PHI:1531	FGSG_00930	GzSsu72	Unaffected pathogenicity
+PHI:1532	FGSG_07458	GzLam001	Unaffected pathogenicity
+PHI:1533	FGSG_10179	GzLam002	Reduced virulence
+PHI:1534	FGSG_08696	GzMADS001	Unaffected pathogenicity
+PHI:1535	FGSG_09002	GzMADS002	Unaffected pathogenicity
+PHI:1536	FGSG_09339	GzMADS003	Reduced virulence
+PHI:1537	FGSG_00318	MYT1	Unaffected pathogenicity
+PHI:1538	FGSG_00324	GzMyb002	Reduced virulence
+PHI:1539	FGSG_01274	GzMyb003	Unaffected pathogenicity
+PHI:1540	FGSG_01457	GzMyb004	Unaffected pathogenicity
+PHI:1541	FGSG_01915	GzFlbD	Unaffected pathogenicity
+PHI:1542	FGSG_01925	GzMyb006	Unaffected pathogenicity
+PHI:1543	FGSG_02538	GzMyb007	Unaffected pathogenicity
+PHI:1544	FGSG_02719	GzMyb008	Unaffected pathogenicity
+PHI:1545	FGSG_04513	GzMyb009	Lethal
+PHI:1546	FGSG_05512	GzMyb010	Lethal
+PHI:1547	FGSG_06768	GzMyb011	Unaffected pathogenicity
+PHI:1548	FGSG_07448	GzMyb012	Unaffected pathogenicity
+PHI:1549	FGSG_07546	MYT2	Unaffected pathogenicity
+PHI:1550	FGSG_08713	GzMyb014	Unaffected pathogenicity
+PHI:1551	FGSG_09807	GzMyb015	Unaffected pathogenicity
+PHI:1552	FGSG_10269	GzMyb016	Unaffected pathogenicity
+PHI:1553	FGSG_12781	GzMyb017	Reduced virulence
+PHI:1554	FGSG_01167	GzMyb018	Unaffected pathogenicity
+PHI:1555	FGSG_01662	GzMyb019	Unaffected pathogenicity
+PHI:1556	FGSG_09992	GzNH001	Reduced virulence
+PHI:1557	FGSG_01040	GzNH002	Unaffected pathogenicity
+PHI:1558	FGSG_05588	GzNH003	Unaffected pathogenicity
+PHI:1559	FGSG_04209	GzNEG001	Unaffected pathogenicity
+PHI:1560	FGSG_07583	GzNEG002	Unaffected pathogenicity
+PHI:1561	FGSG_00276	GzOB001	Unaffected pathogenicity
+PHI:1562	FGSG_00504	GzOB002	Lethal
+PHI:1563	FGSG_00671	GzOB003	Unaffected pathogenicity
+PHI:1564	FGSG_00717	GzOB004	Unaffected pathogenicity
+PHI:1565	FGSG_00875	GzOB005	Unaffected pathogenicity
+PHI:1566	FGSG_01198	GzOB006	Lethal
+PHI:1567	FGSG_01220	GzOB007	Unaffected pathogenicity
+PHI:1568	FGSG_01251	GzOB008	Unaffected pathogenicity
+PHI:1569	FGSG_01290	GzOB009	Lethal
+PHI:1570	FGSG_01920	GzOB010	Unaffected pathogenicity
+PHI:1571	FGSG_01955	GzOB011	Unaffected pathogenicity
+PHI:1572	FGSG_01976	GzOB012	Unaffected pathogenicity
+PHI:1573	FGSG_02470	GzOB013	Lethal
+PHI:1574	FGSG_02622	GzOB014	Lethal
+PHI:1575	FGSG_03695	GzOB015	Unaffected pathogenicity
+PHI:1576	FGSG_04169	GzOB016	Unaffected pathogenicity
+PHI:1577	FGSG_04273	GzOB017	Unaffected pathogenicity
+PHI:1578	FGSG_04554	GzOB018	Unaffected pathogenicity
+PHI:1579	FGSG_05002	GzOB019	Unaffected pathogenicity
+PHI:1580	FGSG_05012	GzOB020	Unaffected pathogenicity
+PHI:1581	FGSG_06110	GzOB021	Unaffected pathogenicity
+PHI:1582	FGSG_06220	GzOB022	Unaffected pathogenicity
+PHI:1583	FGSG_06777	GzOB023	Unaffected pathogenicity
+PHI:1584	FGSG_06931	GzOB024	Unaffected pathogenicity
+PHI:1585	FGSG_06951	GzOB025	Unaffected pathogenicity
+PHI:1586	FGSG_07082	GzOB026	Unaffected pathogenicity
+PHI:1587	FGSG_07105	GzOB027	Unaffected pathogenicity
+PHI:1588	FGSG_07269	GzOB028	Lethal
+PHI:1589	FGSG_08645	GzOB029	Unaffected pathogenicity
+PHI:1590	FGSG_08655	GzOB030	Lethal
+PHI:1591	FGSG_08737	GzOB031	Reduced virulence
+PHI:1592	FGSG_08750	GzOB032	Unaffected pathogenicity
+PHI:1593	FGSG_08756	GzOB033	Unaffected pathogenicity
+PHI:1594	FGSG_08761	GzOB034	Unaffected pathogenicity
+PHI:1595	FGSG_08865	GzOB035	Unaffected pathogenicity
+PHI:1596	FGSG_09000	GzOB036	Unaffected pathogenicity
+PHI:1597	FGSG_09406	GzOB037	Unaffected pathogenicity
+PHI:1598	FGSG_09654	GzOB038	Reduced virulence
+PHI:1599	FGSG_09662	GzOB039	Unaffected pathogenicity
+PHI:1600	FGSG_09852	GzOB041	Unaffected pathogenicity
+PHI:1601	FGSG_09904	GzOB042	Unaffected pathogenicity
+PHI:1602	FGSG_09991	GzOB043	Unaffected pathogenicity
+PHI:1603	FGSG_10122	GzOB044	Unaffected pathogenicity
+PHI:1604	FGSG_10733	GzOB045	Unaffected pathogenicity
+PHI:1605	FGSG_10797	GzOB046	Unaffected pathogenicity
+PHI:1606	FGSG_13120	GzOB047	Reduced virulence
+PHI:1607	FGSG_13818	GzOB048	Unaffected pathogenicity
+PHI:1608	FGSG_00350	GzP53L001	Unaffected pathogenicity
+PHI:1609	FGSG_03874	GzP53L002	Unaffected pathogenicity
+PHI:1610	FGSG_07157	GzP53L003	Unaffected pathogenicity
+PHI:1611	FGSG_08397	GzP53L004	Unaffected pathogenicity
+PHI:1612	FGSG_09709	GzP53L005	Unaffected pathogenicity
+PHI:1613	FGSG_10985	GzP53L006	Unaffected pathogenicity
+PHI:1614	FGSG_06279	GzSART1	Unaffected pathogenicity
+PHI:1615	FGSG_09837	GzSGT1	Unaffected pathogenicity
+PHI:1616	FGSG_01929	GzssDB001	Unaffected pathogenicity
+PHI:1617	FGSG_10186	GzssDB002	Unaffected pathogenicity
+PHI:1618	FGSG_00420	GzFET5	Unaffected pathogenicity
+PHI:1619	FGSG_00934	GzJUM001	Unaffected pathogenicity
+PHI:1620	FGSG_01558	GzJUM002	Unaffected pathogenicity
+PHI:1621	FGSG_05855	GzRUM1	Unaffected pathogenicity
+PHI:1622	FGSG_06840	GzJUM004	Unaffected pathogenicity
+PHI:1623	FGSG_13613	GzJUM005	Unaffected pathogenicity
+PHI:1624	FGSG_13928	GzJUM006	Unaffected pathogenicity
+PHI:1625	FGSG_08981	GzOpi	Unaffected pathogenicity
+PHI:1626	FGSG_00902	GzTF2S001	Unaffected pathogenicity
+PHI:1627	FGSG_08551	GzTF2S002	Unaffected pathogenicity
+PHI:1628	FGSG_01665	FgFSR1	Reduced virulence
+PHI:1629	FGSG_00502	GzWing001	Unaffected pathogenicity
+PHI:1630	FGSG_00778	GzWing002	Unaffected pathogenicity
+PHI:1631	FGSG_00946	GzWing003	Unaffected pathogenicity
+PHI:1632	FGSG_01030	GzWing004	Unaffected pathogenicity
+PHI:1633	FGSG_01116	GzWing005	Unaffected pathogenicity
+PHI:1634	FGSG_01689	GzWing006	Unaffected pathogenicity
+PHI:1635	FGSG_02615	GzWing007	Unaffected pathogenicity
+PHI:1636	FGSG_03597	FgFlbB	Unaffected pathogenicity
+PHI:1637	FGSG_04254	GzWing009	Lethal
+PHI:1638	FGSG_05388	GzWing010	Unaffected pathogenicity
+PHI:1639	FGSG_05520	GzWing011	Unaffected pathogenicity
+PHI:1640	FGSG_05949	GzWing012	Unaffected pathogenicity
+PHI:1641	FGSG_06228	FgFlbA	Reduced virulence
+PHI:1642	FGSG_06359	GzWing014	Unaffected pathogenicity
+PHI:1643	FGSG_06944	GzWing015	Reduced virulence
+PHI:1644	FGSG_07420	GzRFX1	Unaffected pathogenicity
+PHI:1645	FGSG_07433	GzWing017	Unaffected pathogenicity
+PHI:1646	FGSG_08481	GzWing018	Reduced virulence
+PHI:1647	FGSG_08572	GzWing019	Reduced virulence
+PHI:1648	FGSG_08719	GzWing020	Reduced virulence
+PHI:1649	FGSG_09724	GzWing021	Unaffected pathogenicity
+PHI:1650	FGSG_10017	GzWing022	Lethal
+PHI:1651	FGSG_10331	GzWing023	Unaffected pathogenicity
+PHI:1652	FGSG_10800	GzWing024	Unaffected pathogenicity
+PHI:1653	FGSG_10886	GzWing026	Unaffected pathogenicity
+PHI:1654	FGSG_11826	GzWing027	Unaffected pathogenicity
+PHI:1655	FGSG_13640	GzWing028	Unaffected pathogenicity
+PHI:1656	FGSG_02520	GzYL	Lethal
+PHI:1657	FGSG_02288	GzCCCH001	Unaffected pathogenicity
+PHI:1658	FGSG_06860	GzCCCH002	Unaffected pathogenicity
+PHI:1659	FGSG_10829	GzCCCH003	Unaffected pathogenicity
+PHI:1660	FGSG_11696	GzCCCH004	Unaffected pathogenicity
+PHI:1661	FGSG_01984	GzCCHC001	Unaffected pathogenicity
+PHI:1662	FGSG_02080	GzCCHC002	Unaffected pathogenicity
+PHI:1663	FGSG_02646	GzCCHC003	Unaffected pathogenicity
+PHI:1664	FGSG_05280	GzCCHC004	Unaffected pathogenicity
+PHI:1665	FGSG_06910	GzCCHC005	Unaffected pathogenicity
+PHI:1666	FGSG_08897	GzCCHC006	Unaffected pathogenicity
+PHI:1667	FGSG_09892	GzCCHC007	Unaffected pathogenicity
+PHI:1668	FGSG_10143	GzCCHC008	Unaffected pathogenicity
+PHI:1669	FGSG_10277	GzCCHC009	Unaffected pathogenicity
+PHI:1670	FGSG_10286	GzCCHC010	Unaffected pathogenicity
+PHI:1671	FGSG_10716	GzCCHC011	Reduced virulence
+PHI:1672	FGSG_12977	GzCCHC012	Unaffected pathogenicity
+PHI:1673	FGSG_01411	GzDHHC001	Unaffected pathogenicity
+PHI:1674	FGSG_05896	GzDHHC002	Unaffected pathogenicity
+PHI:1675	FGSG_06542	GzDHHC003	Unaffected pathogenicity
+PHI:1676	FGSG_08531	GzDHHC004	Unaffected pathogenicity
+PHI:1677	FGSG_08915	GzDHHC005	Unaffected pathogenicity
+PHI:1678	FGSG_05110	GzGRF	Unaffected pathogenicity
+PHI:1679	FGSG_08455	GzMIZ001	Unaffected pathogenicity
+PHI:1680	FGSG_10015	GzMIZ002	Unaffected pathogenicity
+PHI:1681	FGSG_02130	GzNF001	Unaffected pathogenicity
+PHI:1682	FGSG_07076	GzNF002	Unaffected pathogenicity
+PHI:1683	FGSG_04221	GzRad001	Lethal
+PHI:1684	FGSG_04258	GzRad002	Unaffected pathogenicity
+PHI:1685	FGSG_12264	GzRad003	Unaffected pathogenicity
+PHI:1686	FGSG_12006	GzZC001	Unaffected pathogenicity
+PHI:1687	FGSG_12002	GzZC002	Unaffected pathogenicity
+PHI:1688	FGSG_08831	GzZC003	Unaffected pathogenicity
+PHI:1689	FGSG_10030	GzZC004	Unaffected pathogenicity
+PHI:1690	FGSG_11624	GzZC005	Unaffected pathogenicity
+PHI:1691	FGSG_09945	GzZC006	Unaffected pathogenicity
+PHI:1692	FGSG_09524	GzZC007	Unaffected pathogenicity
+PHI:1693	FGSG_09349	GzZC008	Unaffected pathogenicity
+PHI:1694	FGSG_11520	GzZC009	Unaffected pathogenicity
+PHI:1695	FGSG_10977	GzZC010	Unaffected pathogenicity
+PHI:1696	FGSG_11051	GzZC011	Unaffected pathogenicity
+PHI:1697	FGSG_11462	GzZC012	Unaffected pathogenicity
+PHI:1698	FGSG_10891	GzZC013	Unaffected pathogenicity
+PHI:1699	FGSG_04680	GzZC014	Unaffected pathogenicity
+PHI:1700	FGSG_04666	GzZC015	Unaffected pathogenicity
+PHI:1701	FGSG_04496	GzZC016	Unaffected pathogenicity
+PHI:1702	FGSG_07575	GzZC017	Unaffected pathogenicity
+PHI:1703	FGSG_07568	GzZC018	Unaffected pathogenicity
+PHI:1704	FGSG_05926	GzZC019	Unaffected pathogenicity
+PHI:1705	FGSG_03924	GzZC020	Unaffected pathogenicity
+PHI:1706	FGSG_03873	GzZC021	Unaffected pathogenicity
+PHI:1707	FGSG_04170	GzZC022	Unaffected pathogenicity
+PHI:1708	FGSG_05827	GzZC023	Unaffected pathogenicity
+PHI:1709	FGSG_06516	GzZC024	Unaffected pathogenicity
+PHI:1710	FGSG_03606	GzZC025	Unaffected pathogenicity
+PHI:1711	FGSG_02150	GzZC026	Unaffected pathogenicity
+PHI:1712	FGSG_05309	GzZC027	Unaffected pathogenicity
+PHI:1713	FGSG_02825	GzZC028	Unaffected pathogenicity
+PHI:1714	FGSG_06448	GzZC029	Lethal
+PHI:1715	FGSG_06380	GzZC030	Unaffected pathogenicity
+PHI:1716	FGSG_04782	GzZC031	Unaffected pathogenicity
+PHI:1717	FGSG_00153	GzZC032	Unaffected pathogenicity
+PHI:1718	FGSG_13652	GzZC033	Unaffected pathogenicity
+PHI:1719	FGSG_13625	GzZC034	Unaffected pathogenicity
+PHI:1720	FGSG_13386	GzZC035	Unaffected pathogenicity
+PHI:1721	FGSG_13344	GzZC036	Unaffected pathogenicity
+PHI:1722	FGSG_13098	GzZC037	Unaffected pathogenicity
+PHI:1723	FGSG_13008	GzZC038	Unaffected pathogenicity
+PHI:1724	FGSG_13830	GzZC039	Unaffected pathogenicity
+PHI:1725	FGSG_13828	GzZC040	Unaffected pathogenicity
+PHI:1726	FGSG_13457	GzZC041	Unaffected pathogenicity
+PHI:1727	FGSG_12173	GzZC042	Unaffected pathogenicity
+PHI:1728	FGSG_12134	GzZC043	Unaffected pathogenicity
+PHI:1729	FGSG_12094	GzZC044	Unaffected pathogenicity
+PHI:1730	FGSG_12398	GzZC045	Unaffected pathogenicity
+PHI:1731	FGSG_11996	GzZC046	Unaffected pathogenicity
+PHI:1732	FGSG_12385	GzZC047	Unaffected pathogenicity
+PHI:1733	FGSG_12660	GzZC048	Unaffected pathogenicity
+PHI:1734	FGSG_12611	GzZC049	Unaffected pathogenicity
+PHI:1735	FGSG_12597	GzZC050	Unaffected pathogenicity
+PHI:1736	FGSG_11720	GzZC051	Unaffected pathogenicity
+PHI:1737	FGSG_11709	GzZC052	Unaffected pathogenicity
+PHI:1738	FGSG_11686	GzZC053	Unaffected pathogenicity
+PHI:1739	FGSG_12742	GzZC054	Unaffected pathogenicity
+PHI:1740	FGSG_12714	GzZC055	Unaffected pathogenicity
+PHI:1741	FGSG_12703	GzZC056	Unaffected pathogenicity
+PHI:1742	FGSG_12798	GzZC057	Unaffected pathogenicity
+PHI:1743	FGSG_13172	GzZC058	Unaffected pathogenicity
+PHI:1744	FGSG_08861	GzZC059	Unaffected pathogenicity
+PHI:1745	FGSG_08808	GzZC060	Unaffected pathogenicity
+PHI:1746	FGSG_08791	GzZC061	Unaffected pathogenicity
+PHI:1747	FGSG_12584	GzZC062	Lethal
+PHI:1748	FGSG_12528	GzZC063	Unaffected pathogenicity
+PHI:1749	FGSG_11672	GzZC064	Unaffected pathogenicity
+PHI:1750	FGSG_11654	GzZC065	Unaffected pathogenicity
+PHI:1751	FGSG_09726	GzZC066	Unaffected pathogenicity
+PHI:1752	FGSG_09921	GzZC067	Unaffected pathogenicity
+PHI:1753	FGSG_09884	GzZC068	Unaffected pathogenicity
+PHI:1754	FGSG_10536	GzZC069	Unaffected pathogenicity
+PHI:1755	FGSG_10505	GzZC070	Unaffected pathogenicity
+PHI:1756	FGSG_11821	GzZC071	Unaffected pathogenicity
+PHI:1757	FGSG_09594	GzZC072	Unaffected pathogenicity
+PHI:1758	FGSG_09178	GzZC073	Unaffected pathogenicity
+PHI:1759	FGSG_09147	GzZC074	Unaffected pathogenicity
+PHI:1760	FGSG_09123	GzZC075	Unaffected pathogenicity
+PHI:1761	FGSG_09111	GzZC076	Unaffected pathogenicity
+PHI:1762	FGSG_09065	GzZC077	Unaffected pathogenicity
+PHI:1763	FGSG_09014	GzZC078	Unaffected pathogenicity
+PHI:1764	FGSG_09333	GzZC079	Unaffected pathogenicity
+PHI:1765	FGSG_09331	GzZC080	Unaffected pathogenicity
+PHI:1766	FGSG_10458	GzZC081	Lethal
+PHI:1767	FGSG_10429	GzZC082	Unaffected pathogenicity
+PHI:1768	FGSG_00568	GzZC083	Unaffected pathogenicity
+PHI:1769	FGSG_08972	GzZC084	Unaffected pathogenicity
+PHI:1770	FGSG_08930	GzZC085	Unaffected pathogenicity
+PHI:1771	FGSG_08924	GzZC086	Unaffected pathogenicity
+PHI:1772	FGSG_10069	GzZC087	Reduced virulence
+PHI:1773	FGSG_11561	GzZC088	Unaffected pathogenicity
+PHI:1774	FGSG_11551	GzZC089	Lethal
+PHI:1775	FGSG_12244	GzZC090	Unaffected pathogenicity
+PHI:1776	FGSG_10364	GzZC091	Unaffected pathogenicity
+PHI:1777	FGSG_11093	GzZC092	Unaffected pathogenicity
+PHI:1778	FGSG_11218	GzZC093	Unaffected pathogenicity
+PHI:1779	FGSG_11186	GzZC094	Unaffected pathogenicity
+PHI:1780	FGSG_11271	GzZC095	Unaffected pathogenicity
+PHI:1781	FGSG_11262	GzZC096	Unaffected pathogenicity
+PHI:1782	FGSG_11356	GzZC097	Lethal
+PHI:1783	FGSG_10914	GzZC098	Unaffected pathogenicity
+PHI:1784	FGSG_10895	GzZC099	Unaffected pathogenicity
+PHI:1785	FGSG_10812	GzZC100	Unaffected pathogenicity
+PHI:1786	FGSG_10674	GzZC101	Unaffected pathogenicity
+PHI:1787	FGSG_10660	GzZC102	Unaffected pathogenicity
+PHI:1788	FGSG_10639	GzZC103	Unaffected pathogenicity
+PHI:1789	FGSG_08392	GzZC104	Unaffected pathogenicity
+PHI:1790	FGSG_08380	GzZC105	Lethal
+PHI:1791	FGSG_08321	GzZC106	Unaffected pathogenicity
+PHI:1792	FGSG_08369	GzZC107	Unaffected pathogenicity
+PHI:1793	FGSG_08769	GzZC108	Reduced virulence
+PHI:1794	FGSG_08626	GzZC109	Unaffected pathogenicity
+PHI:1795	FGSG_07265	GzZC110	Unaffected pathogenicity
+PHI:1796	FGSG_07198	GzZC111	Unaffected pathogenicity
+PHI:1797	FGSG_07192	GzZC112	Unaffected pathogenicity
+PHI:1798	FGSG_07177	GzZC113	Unaffected pathogenicity
+PHI:1799	FGSG_00967	GzZC114	Unaffected pathogenicity
+PHI:1800	FGSG_01936	GzZC115	Unaffected pathogenicity
+PHI:1801	FGSG_08182	GzZC116	Reduced virulence
+PHI:1802	FGSG_08179	GzZC117	Unaffected pathogenicity
+PHI:1803	FGSG_08038	GzZC118	Unaffected pathogenicity
+PHI:1804	FGSG_08034	GzZC119	Unaffected pathogenicity
+PHI:1805	FGSG_08028	GzZC120	Reduced virulence
+PHI:1806	FGSG_07927	GzZC121	Unaffected pathogenicity
+PHI:1807	FGSG_07924	GzZC122	Lethal
+PHI:1808	FGSG_02277	GzZC123	Unaffected pathogenicity
+PHI:1809	FGSG_02215	GzZC124	Lethal
+PHI:1810	FGSG_07884	GzZC125	Unaffected pathogenicity
+PHI:1811	FGSG_07827	GzZC126	Unaffected pathogenicity
+PHI:1812	FGSG_08135	GzZC127	Unaffected pathogenicity
+PHI:1813	FGSG_08080	GzZC128	Unaffected pathogenicity
+PHI:1814	FGSG_08064	GzZC129	Lethal
+PHI:1815	FGSG_04643	GzZC130	Unaffected pathogenicity
+PHI:1816	FGSG_06810	GzZC131	Unaffected pathogenicity
+PHI:1817	FGSG_04581	ZEAR	Unaffected pathogenicity
+PHI:1818	FGSG_12927	GzZC133	Unaffected pathogenicity
+PHI:1819	FGSG_12813	GzZC134	Unaffected pathogenicity
+PHI:1820	FGSG_13135	GzZC135	Unaffected pathogenicity
+PHI:1821	FGSG_08828	GzZC136	Unaffected pathogenicity
+PHI:1822	FGSG_10533	GzZC137	Unaffected pathogenicity
+PHI:1823	FGSG_09075	GzZC138	Unaffected pathogenicity
+PHI:1824	FGSG_09371	GzZC139	Unaffected pathogenicity
+PHI:1825	FGSG_09328	GzZC140	Unaffected pathogenicity
+PHI:1826	FGSG_10980	GzZC141	Unaffected pathogenicity
+PHI:1827	FGSG_11124	GzZC142	Unaffected pathogenicity
+PHI:1828	FGSG_11216	GzZC143	Unaffected pathogenicity
+PHI:1829	FGSG_10627	GzZC144	Lethal
+PHI:1830	FGSG_07889	GzZC145	Unaffected pathogenicity
+PHI:1831	FGSG_03353	GzZC146	Unaffected pathogenicity
+PHI:1832	FGSG_03068	GzZC147	Unaffected pathogenicity
+PHI:1833	FGSG_04203	GzZC148	Unaffected pathogenicity
+PHI:1834	FGSG_05772	GzZC149	Unaffected pathogenicity
+PHI:1835	FGSG_03649	GzZC150	Unaffected pathogenicity
+PHI:1836	FGSG_02445	GzZC151	Unaffected pathogenicity
+PHI:1837	FGSG_02431	GzZC152	Unaffected pathogenicity
+PHI:1838	FGSG_02787	GzZC153	Unaffected pathogenicity
+PHI:1839	FGSG_01731	GzZC154	Unaffected pathogenicity
+PHI:1840	FGSG_06460	GzZC155	Unaffected pathogenicity
+PHI:1841	FGSG_03783	GzZC156	Unaffected pathogenicity
+PHI:1842	FGSG_00813	GzZC157	Unaffected pathogenicity
+PHI:1843	FGSG_11891	GzZC158	Unaffected pathogenicity
+PHI:1844	FGSG_12631	GzZC159	Unaffected pathogenicity
+PHI:1845	FGSG_11683	GzZC160	Unaffected pathogenicity
+PHI:1846	FGSG_12729	GzZC161	Unaffected pathogenicity
+PHI:1847	FGSG_09464	GzZC162	Unaffected pathogenicity
+PHI:1848	FGSG_09177	GzZC163	Unaffected pathogenicity
+PHI:1849	FGSG_10266	GzZC164	Unaffected pathogenicity
+PHI:1850	FGSG_09080	GzZC165	Unaffected pathogenicity
+PHI:1851	FGSG_09064	GzZC166	Lethal
+PHI:1852	FGSG_10468	GzZC167	Unaffected pathogenicity
+PHI:1853	FGSG_09225	GzZC168	Unaffected pathogenicity
+PHI:1854	FGSG_10070	GzZC169	Unaffected pathogenicity
+PHI:1855	FGSG_12282	GzZC170	Unaffected pathogenicity
+PHI:1856	FGSG_11247	GzZC171	Unaffected pathogenicity
+PHI:1857	FGSG_11364	GzZC172	Unaffected pathogenicity
+PHI:1858	FGSG_11358	GzZC173	Unaffected pathogenicity
+PHI:1859	FGSG_11355	GzZC174	Unaffected pathogenicity
+PHI:1860	FGSG_08349	GzZC175	Unaffected pathogenicity
+PHI:1861	FGSG_08010	GzZC176	Unaffected pathogenicity
+PHI:1862	FGSG_04683	GzZC177	Unaffected pathogenicity
+PHI:1863	FGSG_04671	GzZC178	Unaffected pathogenicity
+PHI:1864	FGSG_14003	GzZC179	Unaffected pathogenicity
+PHI:1865	FGSG_13455	GzZC180	Unaffected pathogenicity
+PHI:1866	FGSG_12115	GzZC181	Unaffected pathogenicity
+PHI:1867	FGSG_04576	GzZC182	Unaffected pathogenicity
+PHI:1868	FGSG_04480	GzZC183	Unaffected pathogenicity
+PHI:1869	FGSG_01853	GzZC184	Unaffected pathogenicity
+PHI:1870	FGSG_01795	GzZC185	Unaffected pathogenicity
+PHI:1871	FGSG_07638	GzZC186	Lethal
+PHI:1872	FGSG_07609	GzZC187	Lethal
+PHI:1873	FGSG_07604	GzZC188	Unaffected pathogenicity
+PHI:1874	FGSG_07591	GzZC189	Unaffected pathogenicity
+PHI:1875	FGSG_07589	GzZC190	Unaffected pathogenicity
+PHI:1876	FGSG_01515	GzZC191	Unaffected pathogenicity
+PHI:1877	FGSG_05958	GzZC192	Unaffected pathogenicity
+PHI:1878	FGSG_05925	GzZC193	Unaffected pathogenicity
+PHI:1879	FGSG_03929	GzZC194	Unaffected pathogenicity
+PHI:1880	FGSG_03919	GzZC195	Unaffected pathogenicity
+PHI:1881	FGSG_03912	GzZC196	Unaffected pathogenicity
+PHI:1882	FGSG_03892	GzZC197	Unaffected pathogenicity
+PHI:1883	FGSG_03878	GzZC198	Unaffected pathogenicity
+PHI:1884	FGSG_03861	GzZC199	Unaffected pathogenicity
+PHI:1885	FGSG_03857	GzZC200	Unaffected pathogenicity
+PHI:1886	FGSG_07693	GzZC201	Unaffected pathogenicity
+PHI:1887	FGSG_03415	GzZC202	Unaffected pathogenicity
+PHI:1888	FGSG_03399	GzZC203	Unaffected pathogenicity
+PHI:1889	FGSG_03390	GzZC204	Unaffected pathogenicity
+PHI:1890	FGSG_07482	GzZC205	Unaffected pathogenicity
+PHI:1891	FGSG_06750	GzZC206	Unaffected pathogenicity
+PHI:1892	FGSG_06699	GzZC207	Unaffected pathogenicity
+PHI:1893	FGSG_05725	GzZC208	Unaffected pathogenicity
+PHI:1894	FGSG_05716	GzZC209	Unaffected pathogenicity
+PHI:1895	FGSG_05682	GzZC210	Unaffected pathogenicity
+PHI:1896	FGSG_05646	GzZC211	Unaffected pathogenicity
+PHI:1897	FGSG_03044	GzZC212	Unaffected pathogenicity
+PHI:1898	FGSG_03037	GzZC213	Unaffected pathogenicity
+PHI:1899	FGSG_02969	GzZC214	Unaffected pathogenicity
+PHI:1900	FGSG_05503	GzZC215	Unaffected pathogenicity
+PHI:1901	FGSG_04191	GzZC216	Unaffected pathogenicity
+PHI:1902	FGSG_04109	GzZC217	Unaffected pathogenicity
+PHI:1903	FGSG_03327	GzZC218	Unaffected pathogenicity
+PHI:1904	FGSG_03322	GzZC219	Unaffected pathogenicity
+PHI:1905	FGSG_03294	GzZC220	Unaffected pathogenicity
+PHI:1906	FGSG_03292	GzZC221	Unaffected pathogenicity
+PHI:1907	FGSG_03246	GzZC222	Unaffected pathogenicity
+PHI:1908	FGSG_03226	GzZC223	Unaffected pathogenicity
+PHI:1909	FGSG_03219	GzZC224	Unaffected pathogenicity
+PHI:1910	FGSG_03214	GzZC225	Unaffected pathogenicity
+PHI:1911	FGSG_03207	GzZC226	Unaffected pathogenicity
+PHI:1912	FGSG_03201	GzZC227	Unaffected pathogenicity
+PHI:1913	FGSG_05789	GzZC228	Unaffected pathogenicity
+PHI:1914	FGSG_06160	GzZC229	Unaffected pathogenicity
+PHI:1915	FGSG_07133	GzZC230	Reduced virulence
+PHI:1916	FGSG_07079	GzZC231	Unaffected pathogenicity
+PHI:1917	FGSG_07067	GzZC232	Reduced virulence
+PHI:1918	FGSG_07368	GzZC233	Unaffected pathogenicity
+PHI:1919	FGSG_01378	GzZC234	Unaffected pathogenicity
+PHI:1920	FGSG_01318	GzZC235	Unaffected pathogenicity
+PHI:1921	FGSG_01293	GzZC236	Reduced virulence
+PHI:1922	FGSG_06915	GzZC237	Unaffected pathogenicity
+PHI:1923	FGSG_03159	GzZC238	Unaffected pathogenicity
+PHI:1924	FGSG_03138	GzZC239	Unaffected pathogenicity
+PHI:1925	FGSG_03102	GzZC240	Unaffected pathogenicity
+PHI:1926	FGSG_04459	GzZC241	Unaffected pathogenicity
+PHI:1927	FGSG_06593	GzZC242	Unaffected pathogenicity
+PHI:1928	FGSG_03702	GzZC243	Unaffected pathogenicity
+PHI:1929	FGSG_03683	GzZC244	Lethal
+PHI:1930	FGSG_02167	GzZC245	Unaffected pathogenicity
+PHI:1931	FGSG_02083	GzZC246	Unaffected pathogenicity
+PHI:1932	FGSG_02068	GzZC247	Unaffected pathogenicity
+PHI:1933	FGSG_01176	GzZC248	Reduced virulence
+PHI:1934	FGSG_01172	GzZC249	Unaffected pathogenicity
+PHI:1935	FGSG_02531	GzZC250	Unaffected pathogenicity
+PHI:1936	FGSG_02435	GzZC251	Unaffected pathogenicity
+PHI:1937	FGSG_05370	GzZC252	Unaffected pathogenicity
+PHI:1938	FGSG_05350	GzZC253	Unaffected pathogenicity
+PHI:1939	FGSG_05332	GzZC254	Unaffected pathogenicity
+PHI:1940	FGSG_05279	GzZC255	Unaffected pathogenicity
+PHI:1941	FGSG_02799	GzZC256	Unaffected pathogenicity
+PHI:1942	FGSG_02696	GzZC257	Unaffected pathogenicity
+PHI:1943	FGSG_09318	GzZC258	Unaffected pathogenicity
+PHI:1944	FGSG_02554	GzZC259	Unaffected pathogenicity
+PHI:1945	FGSG_02874	GzZC260	Unaffected pathogenicity
+PHI:1946	FGSG_02854	GzZC261	Unaffected pathogenicity
+PHI:1947	FGSG_03551	GzZC262	Unaffected pathogenicity
+PHI:1948	FGSG_03508	GzZC263	Unaffected pathogenicity
+PHI:1949	FGSG_03485	GzZC264	Lethal
+PHI:1950	FGSG_01760	GzZC265	Unaffected pathogenicity
+PHI:1951	FGSG_01724	GzZC266	Lethal
+PHI:1952	FGSG_01669	GzZC267	Unaffected pathogenicity
+PHI:1953	FGSG_04311	GzZC268	Unaffected pathogenicity
+PHI:1954	FGSG_05157	GzZC269	Unaffected pathogenicity
+PHI:1955	FGSG_04974	GzZC270	Unaffected pathogenicity
+PHI:1956	FGSG_04901	GzZC271	Unaffected pathogenicity
+PHI:1957	FGSG_04888	GzZC272	Unaffected pathogenicity
+PHI:1958	FGSG_05120	GzZC273	Unaffected pathogenicity
+PHI:1959	FGSG_05068	GzZC274	Unaffected pathogenicity
+PHI:1960	FGSG_01638	GzZC275	Unaffected pathogenicity
+PHI:1961	FGSG_01564	GzZC276	Unaffected pathogenicity
+PHI:1962	FGSG_01562	GzZC277	Unaffected pathogenicity
+PHI:1963	FGSG_06503	GzZC278	Unaffected pathogenicity
+PHI:1964	FGSG_06442	GzZC279	Unaffected pathogenicity
+PHI:1965	FGSG_06436	GzZC280	Unaffected pathogenicity
+PHI:1966	FGSG_00725	GzZC281	Unaffected pathogenicity
+PHI:1967	FGSG_00719	GzZC282	Reduced virulence
+PHI:1968	FGSG_00713	GzZC283	Unaffected pathogenicity
+PHI:1969	FGSG_02410	GzZC284	Unaffected pathogenicity
+PHI:1970	FGSG_02384	GzZC285	Unaffected pathogenicity
+PHI:1971	FGSG_02368	GzZC286	Unaffected pathogenicity
+PHI:1972	FGSG_02323	GzZC287	Unaffected pathogenicity
+PHI:1973	FGSG_02320	GIP2	Unaffected pathogenicity
+PHI:1974	FGSG_06382	GzZC289	Unaffected pathogenicity
+PHI:1975	FGSG_06324	GzZC290	Unaffected pathogenicity
+PHI:1976	FGSG_04862	GzZC291	Lethal
+PHI:1977	FGSG_04830	GzZC292	Unaffected pathogenicity
+PHI:1978	FGSG_04803	GzZC293	Lethal
+PHI:1979	FGSG_04786	GzZC294	Unaffected pathogenicity
+PHI:1980	FGSG_04747	GzZC295	Unaffected pathogenicity
+PHI:1981	FGSG_03786	GzZC296	Unaffected pathogenicity
+PHI:1982	FGSG_03727	GzZC297	Unaffected pathogenicity
+PHI:1983	FGSG_00800	GzZC298	Lethal
+PHI:1984	FGSG_00774	GzZC299	Unaffected pathogenicity
+PHI:1985	FGSG_00625	GzZC300	Unaffected pathogenicity
+PHI:1986	FGSG_00404	GzZC301	Unaffected pathogenicity
+PHI:1987	FGSG_00574	GzZC302	Reduced virulence
+PHI:1988	FGSG_00573	GzZC303	Unaffected pathogenicity
+PHI:1989	FGSG_00313	GzZC304	Unaffected pathogenicity
+PHI:1990	FGSG_00147	GzZC305	Reduced virulence
+PHI:1991	FGSG_00144	GzZC306	Lethal
+PHI:1992	FGSG_00011	GzZC307	Unaffected pathogenicity
+PHI:1993	FGSG_00235	GzZC308	Unaffected pathogenicity
+PHI:1994	FGSG_00227	GzZC309	Unaffected pathogenicity
+PHI:1995	FGSG_00196	GzZC310	Unaffected pathogenicity
+PHI:1996	FGSG_00217	GzZC311	Unaffected pathogenicity
+PHI:1997	FGSG_00102	GzZC312	Unaffected pathogenicity
+PHI:1998	FGSG_00052	GzZC313	Unaffected pathogenicity
+PHI:1999	FGSG_00081	GzZC314	Unaffected pathogenicity
+PHI:2000	FGSG_00069	GzZC315	Unaffected pathogenicity
+PHI:2001	FGSG_00125	GzZC316	Unaffected pathogenicity
+PHI:2294	FGSG_01326 	FgFRP1	Reduced virulence
+PHI:2294	FGSG_01326 	FgFRP1	Unaffected pathogenicity
+PHI:2325	FGSG_04982	TEP1	Reduced virulence
+PHI:2326	FGSG_04111	PTC1	Reduced virulence
+PHI:2327	FGSG_09612	HOG1	Reduced virulence
+PHI:2328	FGSG_03538	TRI10	Reduced virulence
+PHI:2348	FGSG_00332  	FTL1 (TBL1)	reduced virulence
+PHI:2349	FGSG_11955 	VE1 (VEA) (velvet)	Reduced virulence
+PHI:2350	FGSG_07418	MID1	
+PHI:2350	FGSG_07418	MID1	wild type
+PHI:2351	FGSG_01134	AMT1	Reduced virulence
+PHI:2352	FGSG_10718	AMT2	Unaffected pathogenicity
+PHI:2353	FGSG_01134	AMT1	Reduced virulence
+PHI:2354	FGSG_10718	AMT2	Reduced virulence
+PHI:2355	FGSG_10756	AMT4	Reduced virulence
+PHI:2385	FGSG_07546	MYT2	Reduced virulence
+PHI:2386	FGSG_12857	ACL1	Loss of pathogenicity
+PHI:2387	FGSG_06039	ACL2	Loss of pathogenicity
+PHI:2393	FGSG_00007	Related to O-methylsterigmatocystin oxidoreductase	Increased virulence
+PHI:2394	FGSG_10397	Conserved hypothetical protein 	Increased virulence
+PHI:2395	FGSG_00950	GzSYN1	Reduced virulence
+PHI:2396	FGSG_09928	GzSYN2	Reduced virulence
+PHI:2399	FGSG_12164	Fgp1	Reduced virulence
+PHI:2400	FGSG_10796	Fgp2	Unaffected pathogenicity
+PHI:2408	FGSG_03951 	FgMT1	Unaffected pathogenicity
+PHI:2409	FGSG_05593	FgMT2	Reduced virulence
+PHI:2418	FGSG_04355	CID1	Reduced virulence
+PHI:2419	FGSG_04355	CID1	Reduced virulence
+PHI:2427	FGSG_01362	FgVELB	Reduced virulence
+PHI:2430	FGSG_08634	areA	Reduced virulence
+PHI:2432	FGSG_04301	FgRgsA	Reduced virulence
+PHI:2433	FGSG_01503	FgRgsB	Reduced virulence
+PHI:2434	FGSG_06228	FgFlbA	Reduced virulence
+PHI:2451	FGSG_11428	FAEB1	Unaffected pathogenicity
+PHI:2452	FGSG_11036	FAED1	Unaffected pathogenicity
+PHI:266	FGSG_10313 	MGV1	mixed outcome
+PHI:304	FGSG_06631	GzCPS1	Reduced virulence
+PHI:309	FGSG_06385	MAP1 (related: GPMK1)	mixed outcome
+PHI:355	FGSG_05658	GzmetE	Reduced virulence
+PHI:432	FGSG_05906	FGL1	Reduced virulence
+PHI:439	FGSG_03536	TRI6	Reduced virulence
+PHI:44	FGSG_03537	TRI5	mixed outcome
+PHI:442	FGSG_10825	MSY1	Reduced virulence
+PHI:443	FGSG_01932	CBL1	Reduced virulence
+PHI:444	FGSG_01555	ZIF1	Reduced virulence
+PHI:445	FGSG_00376	NOS1	Reduced virulence
+PHI:446	FGSG_00332	TBL1	Reduced virulence
+PHI:525	FGSG_03543	TRI14	Reduced virulence
+PHI:712	FGSG_02328  	GIP1	Unaffected pathogenicity
+PHI:713	FGSG_02395	PKS13 (ZEA2)	Unaffected pathogenicity
+PHI:714	FGSG_12126	PKS4 (ZEA1)	Unaffected pathogenicity
+PHI:715	FGSG_02398	ZEB2	Unaffected pathogenicity
+PHI:716	FGSG_15982	ZEB1	Unaffected pathogenicity
+PHI:717	FGSG_04488 	PLSP1	Unaffected pathogenicity
+PHI:718	FGSG_08208	PKS6	Unaffected pathogenicity
+PHI:719	FGSG_07798	GzFUS1	Unaffected pathogenicity
+PHI:720	FGSG_02324	AUR1	Unaffected pathogenicity
+PHI:721	FGSG_03964 	GRS1	Unaffected pathogenicity
+PHI:722	FGSG_09182 	PGL1	Unaffected pathogenicity
+PHI:723	FGSG_03340 	PKS1	Unaffected pathogenicity
+PHI:724	FGSG_07226	PKS9	Unaffected pathogenicity
+PHI:725	FGSG_01790	PKS11	Unaffected pathogenicity
+PHI:726	FGSG_08795	PKS7	Unaffected pathogenicity
+PHI:727	FGSG_03340 	PKS17	Unaffected pathogenicity
+PHI:728	FGSG_17677	PKS5	Unaffected pathogenicity
+PHI:729	FGSG_04694	PKS2	Unaffected pathogenicity
+PHI:730	FGSG_07226	KSA1	Unaffected pathogenicity
+PHI:731	FGSG_01665	FgFSR1	Reduced virulence
+PHI:733	FGSG_02095	FBP1	Reduced virulence
+PHI:743	FGSG_01939	ARG2	Reduced virulence
+PHI:744	FGSG_02506 	ADE5	Reduced virulence
+PHI:861	FGSG_10114 	RAS2	Reduced virulence
