@@ -1,0 +1,4 @@
+Capronia epimyces	pathogen of fungi	pathogen of other fungi
+Hypocrea atroviridis	pathogen of fungi	
+Hypocrea virens	pathogen of fungi	
+Tetrapisispora phaffii	pathogen of fungi	
