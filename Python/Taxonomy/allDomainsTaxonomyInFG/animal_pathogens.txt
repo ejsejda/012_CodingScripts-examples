@@ -1,0 +1,61 @@
+Ajellomyces capsulatus	PH	
+Ajellomyces dermatitidis	PH	
+Arthrobotrys oligospora	pathogen of nematodes	
+Arthroderma benhamiae	PH	nails
+Arthroderma gypseum	PH	skin
+Arthroderma otae	PH	hair shaft
+Aspergillus clavatus	PH	allergen
+Aspergillus flavus	PH	aspergillosis
+Batrachochytrium dendrobatidis	pathogen of amphibians	
+Beauveria bassiana	pathogen of insects	pathogen of insect 
+Candida albicans	PH	
+Candida dubliniensis	PH	
+Candida glabrata	PH	
+Candida orthopsilosis	PH	
+Candida parapsilosis	PH	
+Candida tropicalis	PH	
+Cladophialophora carrionii	PH	
+Cladophialophora yegresii	PH	
+Clavispora lusitaniae	PH	
+Coccidioides immitis	PH	
+Coccidioides posadasii	PH	
+Cordyceps militaris	pathogen of insects	
+Cryptococcus gattii	PH	
+Cryptococcus neoformans	PH	
+Cyphellophora europaea	PH	nails
+Dactylellina haptotyla	pathogen of nematodes	
+Drechslerella stenobrocha	pathogen of nematodes	
+Edhazardia aedis	pathogen of insects	
+Encephalitozoon cuniculi	PH	
+Encephalitozoon hellem	PH 	
+Encephalitozoon intestinalis	PH	
+Encephalitozoon romaleae	pathogen of insects	
+Exophiala dermatitidis	PH	
+Lodderomyces elongisporus	PH	
+Malassezia globosa	PH	
+Malassezia sympodialis	PH	
+Metarhizium acridum	pathogen of insects	
+Metarhizium anisopliae	pathogen of insects	
+Millerozyma farinosa	PH	
+Mucor circinelloides	PH	
+Neosartorya fischeri	PH	
+Neosartorya fumigata	PH	
+Nosema apis	pathogen of insects	
+Nosema bombycis	pathogen of insects	silkworm
+Nosema ceranae	pathogen of insects	
+Ophiocordyceps sinensis	pathogen of insects	
+Paracoccidioides brasiliensis	PH	
+Paracoccidioides sp. 'lutzii'	PH	
+Penicillium marneffei	PH	
+Pneumocystis jiroveci	PH	
+Pneumocystis murina	PH	
+Pseudogymnoascus destructans	pathogen of bats	
+Rhizopus delemar	PH	
+Schizophyllum commune	PH  and lives by decaying dead wood	
+Sporothrix schenckii	PH	skin
+Spraguea lophii	pathogen of fish 	MICROSPORIA 
+Trichophyton equinum	pathogen of animals 	horses
+Trichophyton tonsurans	PH	
+Trichophyton verrucosum	PH	
+Trichosporon asahii	PH	
+Vavraia culicis	pathogen of insects	

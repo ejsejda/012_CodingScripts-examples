@@ -1,0 +1,4 @@
+Laccaria bicolor	symbiont of plant roots - ectomycorrhizal 	
+Piriformospora indica	plant endophyte - roots	
+Rhizophagus irregularis	symbiont of plant roots - arbuscular mycorrhizal 	
+Tuber melanosporum	symbiont of plant roots - ectomycorrhizal 	

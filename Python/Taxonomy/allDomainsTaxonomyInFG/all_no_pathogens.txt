@@ -1,0 +1,86 @@
+Agaricus bisporus	not a pathogen 	
+Aspergillus kawachii	not a pathogen 	industrial fungus
+Aspergillus niger	not a pathogen 	industrial fungus
+Aspergillus oryzae	not a pathogen 	industrial fungus
+Aspergillus terreus	not a pathogen 	industrial fungus
+Auricularia delicata	not a pathogen - decays dead wood	
+Baudoinia compniacensis	not a pathogen 	environmental saprophyte
+Byssochlamys spectabilis	not a pathogen 	environmental saprophyte
+Candida maltosa	not a pathogen 	industrial fungus
+Candida tenuis	not a pathogen 	industrial fungus
+Capronia coronata	not a pathogen - decays dead wood	
+Ceriporiopsis subvermispora	not a pathogen - decays dead wood	
+Chaetomium globosum	not a pathogen - decays dead wood	also living as an endophyte in the marine green alga, Ulva pertusa
+Chaetomium thermophilum	not a pathogen - soil dweller	
+Cladophialophora psammophila	not a pathogen - soil dweller	
+Coniosporium apollinis	not a pathogen - rock inhabiting fungus	
+Coprinopsis cinerea	not a pathogen 	macro fungus
+Debaryomyces hansenii	not a pathogen - yeast 	
+Dekkera bruxellensis	not a pathogen - yeast	
+Dichomitus squalens	not a pathogen - decays dead wood	
+Emericella nidulans	not a pathogen 	environmental saprophyte
+Endocarpon pusillum	not a pathogen - a lichen forming fungus	
+Eremothecium cymbalariae	not a pathogen 	environmental saprophyte
+Fibroporia radiculosa	not a pathogen - decays dead wood	
+Fomitiporia mediterranea	not a pathogen - decays dead wood	
+Fomitopsis pinicola	not a pathogen - decays dead wood	
+Glarea lozoyensis	not a pathogen 	industrial fungus
+Gloeophyllum trabeum	not a pathogen 	industrial fungus
+Grosmannia clavigera	not a pathogen 	a symbiont of the bark beetle Dendroctonus ponderosae
+Hypocrea jecorina	not a pathogen 	industrial fungus
+Kazachstania africana	not a pathogen - yeast	industrial fungus
+Kazachstania naganishii	not a pathogen - yeast	
+Kluyveromyces lactis	not a pathogen - yeast	
+Kluyveromyces marxianus	not a pathogen - yeast	industrial fungus
+Komagataella pastoris	not a pathogen - yeast	industrial fungus
+Kuraishia capsulata	not a pathogen - yeast	
+Lachancea thermotolerans	not a pathogen - yeast	
+Meyerozyma guilliermondii	not a pathogen 	industrial fungus
+Naumovozyma castellii	not a pathogen - yeast	
+Naumovozyma dairenensis	not a pathogen - yeast	
+Neurospora crassa	not a pathogen	environmental saprophyte
+Neurospora tetrasperma	not a pathogen	environmental saprophyte
+Ogataea parapolymorpha	not a pathogen - yeast	industrial fungus
+Ophiostoma piceae	not a pathogen - decays dead wood	
+Penicillium oxalicum	not a pathogen - decays dead wood	
+Penicillium roqueforti	not a pathogen 	industrial fungus
+Penicillium rubens	not a pathogen 	industrial fungus
+Pestalotiopsis fici	not a pathogen 	industrial fungus
+Phanerochaete carnosa	not a pathogen - decays dead wood	
+Podospora anserina	not a pathogen 	environmental saprophyte
+Postia placenta	not a pathogen - decays dead wood	
+Pseudozyma antarctica	not a pathogen - yeast	industrial fungus
+Pseudozyma aphidis	not a pathogen - yeast	industrial fungus
+Pseudozyma hubeiensis	not a pathogen - yeast	industrial fungus
+Punctularia strigosozonata	not a pathogen - decays dead wood	
+Pyronema omphalodes	not a pathogen - decays dead wood	
+Rhodosporidium toruloides	not a pathogen - yeast	industrial fungus
+Rhodotorula glutinis	not a pathogen - yeast	industrial fungus
+Saccharomyces arboricola	not a pathogen - yeast	
+Saccharomyces cerevisiae	not a pathogen - yeast	
+Saccharomyces cerevisiae x Saccharomyces kudriavzevii	not a pathogen - yeast	
+Saccharomyces kudriavzevii	not a pathogen - yeast	
+Scheffersomyces stipitis	not a pathogen - yeast	industrial fungus
+Schizosaccharomyces cryophilus	not a pathogen - yeast	
+Schizosaccharomyces japonicus	not a pathogen - yeast	
+Schizosaccharomyces octosporus	not a pathogen - yeast	
+Schizosaccharomyces pombe	not a pathogen - yeast	
+Serpula lacrymans	not a pathogen - decays dead wood	
+Sordaria macrospora	not a pathogen 	environmental saprophyte
+Spathaspora passalidarum	not a pathogen - yeast	industrial fungus
+Stereum hirsutum	not a pathogen - decays dead wood	
+Talaromyces stipitatus	not a pathogen 	environmental saprophyte
+Tetrapisispora blattae	not a pathogen - yeast	
+Thielavia heterothallica	not a pathogen 	industrial fungus
+Thielavia terrestris	not a pathogen 	industrial fungus
+Torulaspora delbrueckii	not a pathogen - yeast	industrial fungus
+Tremella mesenterica	not a pathogen - decays dead wood	
+Trichophyton rubrum	not a pathogen	environmental saprophyte
+Uncinocarpus reesii	not a pathogen	environmental saprophyte
+Vanderwaltozyma polyspora	not a pathogen - yeast	
+Wallemia ichthyophaga	not a pathogen	environmental saprophyte
+Wallemia sebi	not a pathogen	environmental saprophyte
+Wickerhamomyces ciferrii	not a pathogen - yeast	industrial fungus
+Yarrowia lipolytica	not a pathogen - yeast	industrial fungus
+Zygosaccharomyces bailii	not a pathogen - yeast	
+Zygosaccharomyces rouxii	not a pathogen - yeast	
