@@ -2,9 +2,10 @@ from numpy import *
 from numpy.lib.io import loadtxt
 import networkx as nx
 
-#projectDir1="/home/ela/Project/PHI-base4.1-analysis/output"
+#setting project directory
+projectDir1="/home/ela/Project/PHI-base4.1-analysis/output"
 
-
+#colour and size function
 def getColorandSize(nodes, d, s):
 	colorList=list()
     	sizeList=list()
@@ -58,16 +59,11 @@ for e in data2:
     v=e[7]
     d.setdefault(k, set()).add(v)
 
-d['PHI:837']='chem target'
-d['PHI:2548']='lethal'
-d['PHI:2520']= 'lethal'
-d['PHI:2551']= 'lethal'
-d['PHI:2541']= 'lethal'
-
 
 
 data3=loadtxt(fileName3, dtype='S', delimiter=';')
-s=dict([('PHI:'+e[0], e[1]) for e in data3])
+s=dict([('PHI:'+e[0], e[1]) for e in data3])
+
 #Create an empty dictionary
 cluster=dict()
 phi=dict()
@@ -93,11 +89,7 @@ for idCluster in arange(len(cluster)):
 				G.add_edge(g1,g2)
    
               
-s['PHI:837']= 1
-s['PHI:2548']= 1
-s['PHI:2520']= 1
-s['PHI:2551']= 1
-s['PHI:2541']= 1
+
 
 colorList, sizeList = getColorandSize(G.nodes(), d, s)
     
@@ -108,8 +100,10 @@ plt.figure(1,figsize=(12,12))
 # layout graphs with positions using graphviz neato
 pos=nx.graphviz_layout(G,prog="neato")
 C=nx.connected_component_subgraphs(G)
+#display labels, it is used for single cluster visualisation
 #nx.draw(C[1], with_labels=True, node_size=array(sizeList)*1800, node_color=colorList, alpha=1.0)
      
+#display all clusters for network G without labels
 nx.draw(G, pos,with_labels=False, node_size=array(sizeList)*50,node_color=colorList, alpha=1.0)
 
 plt.show()
