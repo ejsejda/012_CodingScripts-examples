@@ -10,7 +10,7 @@ from urllib2 import urlopen as urlopener
 from SPARQLWrapper import SPARQLWrapper, JSON
 import time
 
-### In this setting all input files: infile1 and infile2 needs to be in the same directory as the python code, you can adjust it by oroviding the pathway to those files    ######
+### In this setting all input files: infile1 and infile2 needs to be in the same directory as the python code, you can adjust it by providing the pathway to those files    ######
 infile1 = "overlappingSolvedGoldfile.txt" #raw file of pfam domain in FG proteins in order
 infile2 = "allPfamDomains_inFG_VS_pfamDomains_1st_run.txt"
 outfile1 = "results_findingTaxaIdForPfamDomains.txt" 
